@@ -11,3 +11,5 @@ Problems found:
 - https://youtrack.jetbrains.com/issue/IDEA-386141/Spring-Debugger-runtime-inlays-for-Kotlin-conditional-components-are-not-shown
    - com.mytests.spring.springdebuggerbeaninlayskotlin.conditionalTesting.ControllerWithConditionalInjectionCtor
    - com.mytests.spring.springdebuggerbeaninlayskotlin.profilesTesting.ControllerWIthProfileSpecificCtorInjection
+- https://youtrack.jetbrains.com/issue/IDEA-386148/Spring-Debugger-add-some-gap-between-same-line-runtime-inlays
+   - com.mytests.spring.springdebuggerbeaninlayskotlin.nonAmbiguousInjection.ComponentWithNonAmbiguousCtorInjection

@@ -1,0 +1,6 @@
+package com.mytests.spring.springdebuggerbeaninlayskotlin.nonAmbiguousInjection
+
+import org.springframework.stereotype.Component
+
+@Component
+class ComponentWithNonAmbiguousCtorInjection(myDataRepoFieldInjection: MyDataRepoFieldInjection)
